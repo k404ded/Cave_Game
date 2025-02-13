@@ -1,8 +1,4 @@
-Absolutely! Below is a **README.md** file for your GitHub repository. This README provides an overview of your project, how to set it up, and how to play the game. You can copy and paste this into a file named `README.md` in your project folder.
 
----
-
-```markdown
 # Text-Based Adventure Game
 
 Welcome to the **Text-Based Adventure Game**! This is a simple yet fun Python game where you make choices to navigate through a story. Your decisions determine the outcome of the game, leading to multiple endings.
